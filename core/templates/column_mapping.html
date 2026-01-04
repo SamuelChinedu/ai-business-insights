@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block title %}Map Your Columns{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+    <h1 class="text-center mb-4" style="color: #A52A2A;">Map Your Columns</h1>
+    <p class="text-center lead">Your file has these columns. Please tell us which one is:</p>
+
+    {% if error %}
+        <div class="alert alert-danger">{{ error }}</div>
+    {% endif %}
+
+    <div class="card-beige p-4 mb-4">
+        <h5>Preview of your data (first 10 rows)</h5>
+        <div class="table-responsive">
+            {{ preview|safe }}
+        </div>
+    </div>
+
+    <form method="post" action="{% url 'process_with_mapping' %}">
+        {% csrf_token %}
+
+        <div class="row g-4">
+            <!-- Date Column -->
+            <div class="col-md-4">
+                <label class="form-label fw-bold">Date Column (required)</label>
+                <select name="date_column" class="form-select" required>
+                    <option value="">-- Select Date Column --</option>
+                    {% for col in columns %}
+                        <option value="{{ col }}">{{ col }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <!-- Revenue Column -->
+            <div class="col-md-4">
+                <label class="form-label fw-bold">Revenue/Amount Column (required)</label>
+                <select name="revenue_column" class="form-select" required>
+                    <option value="">-- Select Revenue Column --</option>
+                    {% for col in columns %}
+                        <option value="{{ col }}">{{ col }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <!-- Product/Service Name Column -->
+            <div class="col-md-4">
+                <label class="form-label fw-bold">Product/Service Name (optional)</label>
+                <select name="item_column" class="form-select">
+                    <option value="">-- Optional --</option>
+                    {% for col in columns %}
+                        <option value="{{ col }}">{{ col }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+        </div>
+
+        <div class="text-center mt-5">
+            <button type="submit" class="btn btn-primary btn-lg">
+                Confirm & Analyze →
+            </button>
+        </div>
+    </form>
+
+    <div class="text-center mt-4 text-muted small">
+        <i class="fas fa-info-circle"></i> Your data is processed securely and not stored permanently.
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,170 @@
+{% extends "base.html" %}
+{% block title %}Sign Up Free - AI Business Insights{% endblock %}
+
+{% block content %}
+<!-- Back Arrow -->
+    <div class="text-center mb-4">
+        <a href="/" class="btn btn-outline-secondary btn-lg">
+            <i class="fas fa-arrow-left me-2"></i> Back to Home
+        </a>
+    </div>
+<div class="container mt-5 pt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-6 col-md-8">
+            <div class="card-beige p-5 shadow-lg rounded">
+                <div class="text-center mb-5">
+                    <h2 class="fw-bold" style="color: #A52A2A;">
+                        <i class="fas fa-user-plus fa-lg me-3"></i>Create Your Free Account
+                    </h2>
+                    <p class="lead text-muted">
+                        Save your analyses • Access from any device • 100% free forever
+                    </p>
+                </div>
+
+                {% if messages %}
+                    {% for message in messages %}
+                        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                            {{ message }}
+                            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                        </div>
+                    {% endfor %}
+                {% endif %}
+
+                <form method="post">
+                    {% csrf_token %}
+                    
+                    <div class="mb-4">
+                        <label for="username" class="form-label fw-bold">
+                            <i class="fas fa-user me-2" style="color: #A52A2A;"></i>Username
+                        </label>
+                        <input type="text" name="username" id="username" class="form-control form-control-lg" 
+                               placeholder="Choose a username" required>
+                    </div>
+
+                    <div class="mb-4">
+                        <label for="email" class="form-label fw-bold">
+                            <i class="fas fa-envelope me-2" style="color: #A52A2A;"></i>Email Address
+                        </label>
+                        <input type="email" name="email" id="email" class="form-control form-control-lg" 
+                               placeholder="yourbusiness@gmail.com" required>
+                        <div class="form-text">We'll send a verification code to this email</div>
+                    </div>
+
+                    <div class="mb-4">
+                        <label for="business_name" class="form-label fw-bold">
+                            <i class="fas fa-store me-2" style="color: #A52A2A;"></i>Business Name
+                        </label>
+                        <input type="text" name="business_name" id="business_name" class="form-control form-control-lg" 
+                               placeholder="e.g., Chiamaka Fashion Hub" required>
+                        <div class="form-text">How your business will appear in reports</div>
+                    </div>
+
+                    <div class="mb-4">
+                        <label for="password" class="form-label fw-bold">
+                            <i class="fas fa-lock me-2" style="color: #A52A2A;"></i>Password
+                        </label>
+                        <input type="password" name="password" id="password" class="form-control form-control-lg" 
+                               placeholder="Create a strong password" required>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary btn-lg w-100 py-3 fw-bold">
+                        <i class="fas fa-arrow-right me-2"></i> Sign Up & Get Started
+                    </button>
+                </form>
+                                   <div class="mb-4 form-check">
+                        <input type="checkbox" class="form-check-input" id="terms" name="terms" required>
+                        <label class="form-check-label fw-bold" for="terms">
+                            I agree to the <a href="#terms-modal" data-bs-toggle="modal" style="color: #A52A2A;">Terms & Conditions</a> and <a href="#privacy-modal" data-bs-toggle="modal" style="color: #A52A2A;">Privacy Policy</a>
+                        </label>
+                    </div>
+
+                
+                                <div class="text-center mt-4">
+                    <p class="text-muted">
+                        Already have an account? 
+                        <a href="/login" class="fw-bold" style="color: #A52A2A;">Login here →</a>
+                    </p>
+                </div>
+
+                <div class="text-center mt-4 pt-4 border-top">
+                    <small class="text-muted">
+                        <i class="fas fa-shield-alt me-1"></i>
+                        Your data is private • No spam • Secure Nigerian platform
+                    </small>
+                </div>
+            </form>
+        
+        </div>
+    </div>
+</div>
+
+                <!-- Terms & Conditions Modal -->
+                <div class="modal fade" id="terms-modal" tabindex="-1">
+                    <div class="modal-dialog modal-lg modal-dialog-scrollable">
+                        <div class="modal-content">
+                            <div class="modal-header" style="background: #A52A2A; color: white;">
+                                <h5 class="modal-title">Terms & Conditions</h5>
+                                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+                            </div>
+                            <div class="modal-body">
+                                <h5>AI Business Insights Platform – Terms of Service</h5>
+                                <p><strong>Last updated: January 2026</strong></p>
+                                
+                                <h6>1. Acceptance of Terms</h6>
+                                <p>By creating an account or using AI Business Insights, you agree to these Terms of Service.</p>
+                                
+                                <h6>2. Free Service</h6>
+                                <p>This platform is completely free for all users. No payment required ever for core features.</p>
+                                
+                                <h6>3. Data Privacy & Usage</h6>
+                                <p>Your individual business data is private and never sold or shared.<br>
+                                We may use <strong>anonymized, aggregated data</strong> for market research to improve services and support Nigerian economic development.</p>
+                                
+                                <h6>4. Accuracy</h6>
+                                <p>Insights are AI-generated and for informational purposes only. We are not liable for business decisions made using this tool.</p>
+                                
+                                <h6>5. Account Responsibility</h6>
+                                <p>You are responsible for maintaining the security of your account and password.</p>
+                                
+                                <h6>6. Changes to Service</h6>
+                                <p>We may modify or discontinue features with notice.</p>
+                                
+                                <p class="mt-4"><strong>Thank you for trusting us with your business data. We're here to help Nigerian entrepreneurs succeed.</strong></p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Privacy Policy Modal -->
+                <div class="modal fade" id="privacy-modal" tabindex="-1">
+                    <div class="modal-dialog modal-lg modal-dialog-scrollable">
+                        <div class="modal-content">
+                            <div class="modal-header" style="background: #A52A2A; color: white;">
+                                <h5 class="modal-title">Privacy Policy</h5>
+                                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+                            </div>
+                            <div class="modal-body">
+                                <h5>Your Privacy Matters</h5>
+                                <p>We take your privacy seriously.</p>
+                                
+                                <ul>
+                                    <li>Your uploaded data is processed securely and deleted after analysis (for guest/demo mode)</li>
+                                    <li>Registered users' data is stored safely and only accessible by you</li>
+                                    <li>We never sell or share your individual business data</li>
+                                    <li>Anonymized aggregated insights may be used to improve services and support research</li>
+                                    <li>No third-party tracking or ads</li>
+                                    <li>Made in Nigeria with Nigerian businesses in mind</li>
+                                </ul>
+                                
+                                <p class="mt-4"><strong>Your trust is our foundation.</strong></p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+{% endblock %}

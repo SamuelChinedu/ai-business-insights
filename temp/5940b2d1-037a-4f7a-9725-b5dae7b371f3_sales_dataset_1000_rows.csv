@@ -1,0 +1,1001 @@
+Date,Product Name,Quantity,Unit Price,Total Amount,Customer
+2024-04-13,Webcam,8,51368,410944,Grace Williams
+2024-02-14,Mouse,16,45623,729968,David Smith
+2024-03-24,Scanner,15,479681,7195215,Blessing Uche
+2024-10-06,Monitor,11,9087,99957,Fatima Abdullahi
+2024-12-09,USB Flash Drive,5,19252,96260,Chiamaka Obi
+2024-09-26,Printer,3,223989,671967,Mary Johnson
+2024-04-07,Printer,4,464605,1858420,Aisha Bello
+2024-02-02,Webcam,9,420721,3786489,Michael Brown
+2024-04-17,Tablet,6,73540,441240,Peter Okorie
+2024-11-21,Headphones,14,94558,1323812,Peter Okorie
+2024-11-26,Power Bank,18,31086,559548,Aisha Bello
+2024-09-15,Tablet,18,253698,4566564,Emeka Nwoye
+2024-03-05,Monitor,6,351089,2106534,David Smith
+2024-11-17,Monitor,9,449672,4047048,Peter Okorie
+2024-07-07,Printer,7,81168,568176,Sophia Adams
+2024-08-02,Mouse,12,385169,4622028,Paul Onyekachi
+2024-12-24,Router,9,57697,519273,David Smith
+2024-04-04,Laptop,4,277093,1108372,Sophia Adams
+2024-08-10,Scanner,3,68249,204747,Fatima Abdullahi
+2024-09-07,Projector,15,180723,2710845,Chiamaka Obi
+2024-05-19,Scanner,8,353790,2830320,Peter Okorie
+2024-08-20,Scanner,1,497399,497399,Mary Johnson
+2024-04-03,Webcam,12,354554,4254648,Peter Okorie
+2024-04-01,USB Flash Drive,20,93336,1866720,Grace Williams
+2024-08-01,Router,18,216880,3903840,David Smith
+2024-06-29,Headphones,5,428037,2140185,Mary Johnson
+2024-07-18,External Hard Drive,3,395988,1187964,Peter Okorie
+2024-12-19,Keyboard,14,118098,1653372,Sophia Adams
+2024-11-06,Projector,11,442605,4868655,Paul Onyekachi
+2024-02-26,Monitor,14,29655,415170,Aisha Bello
+2024-02-13,Scanner,16,59793,956688,Peter Okorie
+2024-11-02,Tablet,3,167391,502173,Emeka Nwoye
+2024-02-21,Scanner,4,309828,1239312,Chiamaka Obi
+2024-08-25,Keyboard,17,351637,5977829,Samuel Chinedu
+2024-09-14,Mouse,16,205990,3295840,Sophia Adams
+2024-01-05,Monitor,2,83231,166462,Chiamaka Obi
+2024-07-01,Keyboard,6,420706,2524236,David Smith
+2024-02-15,Laptop,2,478693,957386,Paul Onyekachi
+2024-01-10,Printer,8,169058,1352464,Sophia Adams
+2024-10-24,Printer,9,115113,1036017,Aisha Bello
+2024-05-10,Projector,2,410636,821272,Peter Okorie
+2024-04-18,Monitor,11,351650,3868150,Aisha Bello
+2024-03-13,Laptop,17,244430,4155310,Sophia Adams
+2024-02-08,USB Flash Drive,17,22419,381123,Fatima Abdullahi
+2024-09-01,Smartphone,18,480443,8647974,Peter Okorie
+2024-11-03,USB Flash Drive,3,426436,1279308,Blessing Uche
+2024-10-02,Monitor,14,310443,4346202,Blessing Uche
+2024-08-08,Laptop,20,113830,2276600,Samuel Chinedu
+2024-11-01,Headphones,4,193109,772436,David Smith
+2024-11-19,Tablet,1,191797,191797,Blessing Uche
+2024-03-17,Laptop,11,16469,181159,David Smith
+2024-08-16,Keyboard,7,299616,2097312,Samuel Chinedu
+2024-01-30,Mouse,11,138694,1525634,Emeka Nwoye
+2024-07-15,Smartphone,20,463206,9264120,Mary Johnson
+2024-12-17,Keyboard,19,89924,1708556,Blessing Uche
+2024-12-24,Tablet,3,478417,1435251,Paul Onyekachi
+2024-02-19,Power Bank,13,318450,4139850,John Okafor
+2024-12-23,Headphones,7,385518,2698626,Mary Johnson
+2024-04-04,Webcam,15,257286,3859290,Paul Onyekachi
+2024-03-18,Keyboard,5,372912,1864560,Chiamaka Obi
+2024-01-28,Smartphone,6,373289,2239734,Paul Onyekachi
+2024-04-13,Laptop,6,198809,1192854,Daniel Musa
+2024-07-01,Printer,3,180151,540453,Blessing Uche
+2024-02-05,Monitor,2,301669,603338,Grace Williams
+2024-07-28,Router,7,241282,1688974,Chiamaka Obi
+2024-09-27,Tablet,10,253714,2537140,Emeka Nwoye
+2024-12-18,Webcam,19,11399,216581,John Okafor
+2024-01-13,Power Bank,20,290741,5814820,Michael Brown
+2024-02-13,Smartphone,12,351527,4218324,Peter Okorie
+2024-04-24,Mouse,12,272486,3269832,John Okafor
+2024-07-18,USB Flash Drive,10,479766,4797660,Peter Okorie
+2024-01-17,Monitor,5,378563,1892815,Peter Okorie
+2024-07-06,Tablet,18,57144,1028592,Paul Onyekachi
+2024-11-12,Webcam,1,369639,369639,Grace Williams
+2024-10-09,Power Bank,1,340275,340275,Michael Brown
+2024-07-23,Laptop,6,20743,124458,John Okafor
+2024-04-30,Projector,16,31242,499872,Daniel Musa
+2024-11-05,Printer,17,342294,5818998,Grace Williams
+2024-01-29,Tablet,1,201191,201191,Peter Okorie
+2024-08-24,Router,13,231065,3003845,Chiamaka Obi
+2024-01-22,USB Flash Drive,14,420913,5892782,Peter Okorie
+2024-07-28,Keyboard,8,146383,1171064,Peter Okorie
+2024-04-04,Power Bank,6,182146,1092876,Chiamaka Obi
+2024-11-19,Printer,18,479265,8626770,Samuel Chinedu
+2024-01-02,Tablet,6,433437,2600622,Michael Brown
+2024-01-25,Router,10,350173,3501730,Michael Brown
+2024-07-20,Monitor,18,452479,8144622,Sophia Adams
+2024-03-03,Webcam,7,461482,3230374,John Okafor
+2024-03-05,Laptop,13,479053,6227689,Aisha Bello
+2024-09-07,Router,10,442073,4420730,Fatima Abdullahi
+2024-09-10,Headphones,7,239530,1676710,Samuel Chinedu
+2024-08-14,Power Bank,5,119153,595765,David Smith
+2024-12-17,Power Bank,19,366488,6963272,Aisha Bello
+2024-12-07,USB Flash Drive,1,28268,28268,Emeka Nwoye
+2024-11-23,Router,17,275655,4686135,Emeka Nwoye
+2024-03-28,Keyboard,1,110159,110159,David Smith
+2024-11-06,Projector,5,297565,1487825,Daniel Musa
+2024-01-14,Router,4,282994,1131976,Mary Johnson
+2024-03-30,Projector,13,270336,3514368,Chiamaka Obi
+2024-04-15,Printer,1,306668,306668,Chiamaka Obi
+2024-04-06,Power Bank,18,27751,499518,David Smith
+2024-09-19,Monitor,9,409574,3686166,John Okafor
+2024-05-28,Smartphone,16,265614,4249824,Chiamaka Obi
+2024-06-04,Power Bank,7,393230,2752610,Sophia Adams
+2024-05-20,Headphones,20,100961,2019220,David Smith
+2024-06-21,Keyboard,12,342358,4108296,David Smith
+2024-05-21,Laptop,3,166969,500907,Chiamaka Obi
+2024-01-05,Headphones,17,314406,5344902,Paul Onyekachi
+2024-05-29,External Hard Drive,1,221138,221138,Grace Williams
+2024-08-20,USB Flash Drive,11,214108,2355188,Samuel Chinedu
+2024-01-21,Smartphone,8,249486,1995888,Aisha Bello
+2024-05-05,Laptop,2,13600,27200,Emeka Nwoye
+2024-01-15,Webcam,13,255078,3316014,Grace Williams
+2024-12-13,Keyboard,12,456562,5478744,Fatima Abdullahi
+2024-11-18,Projector,11,343123,3774353,Mary Johnson
+2024-03-18,Monitor,4,332342,1329368,Chiamaka Obi
+2024-07-06,Router,2,41390,82780,Chiamaka Obi
+2024-03-27,Printer,18,221962,3995316,Fatima Abdullahi
+2024-04-04,Mouse,15,423757,6356355,Daniel Musa
+2024-10-21,External Hard Drive,1,123509,123509,Peter Okorie
+2024-05-08,Tablet,14,263853,3693942,Peter Okorie
+2024-09-19,Mouse,1,8777,8777,Aisha Bello
+2024-05-04,Tablet,3,44730,134190,John Okafor
+2024-12-20,Router,17,10287,174879,Daniel Musa
+2024-06-20,Router,14,397363,5563082,Samuel Chinedu
+2024-08-29,Router,11,461843,5080273,Peter Okorie
+2024-02-21,Mouse,3,207936,623808,Samuel Chinedu
+2024-12-01,Webcam,19,135054,2566026,Peter Okorie
+2024-01-18,Projector,10,351917,3519170,Daniel Musa
+2024-03-06,Printer,5,345515,1727575,Mary Johnson
+2024-08-16,USB Flash Drive,18,412915,7432470,Samuel Chinedu
+2024-09-12,USB Flash Drive,14,17744,248416,Peter Okorie
+2024-10-02,Smartphone,18,431071,7759278,John Okafor
+2024-03-09,Laptop,14,118349,1656886,Peter Okorie
+2024-04-26,Monitor,3,499782,1499346,Chiamaka Obi
+2024-12-02,Printer,1,146940,146940,Chiamaka Obi
+2024-12-20,Scanner,7,235202,1646414,Samuel Chinedu
+2024-11-01,Tablet,14,362869,5080166,Blessing Uche
+2024-02-04,Projector,19,207380,3940220,Blessing Uche
+2024-06-09,Smartphone,6,441314,2647884,Sophia Adams
+2024-04-12,Keyboard,15,236094,3541410,Emeka Nwoye
+2024-04-20,Mouse,4,408075,1632300,Fatima Abdullahi
+2024-11-20,Monitor,15,485137,7277055,Fatima Abdullahi
+2024-05-04,Laptop,19,495215,9409085,Fatima Abdullahi
+2024-12-27,External Hard Drive,20,90706,1814120,Blessing Uche
+2024-03-09,Projector,12,334982,4019784,John Okafor
+2024-01-09,USB Flash Drive,12,71316,855792,Emeka Nwoye
+2024-02-26,Scanner,9,277148,2494332,John Okafor
+2024-12-23,Webcam,5,223683,1118415,Sophia Adams
+2024-06-29,Smartphone,16,19169,306704,Fatima Abdullahi
+2024-04-10,External Hard Drive,19,325055,6176045,Fatima Abdullahi
+2024-04-09,Headphones,6,415126,2490756,Emeka Nwoye
+2024-07-29,Laptop,10,34994,349940,Michael Brown
+2024-04-17,Smartphone,5,280074,1400370,Daniel Musa
+2024-10-08,Headphones,7,13579,95053,Mary Johnson
+2024-05-05,Smartphone,14,289521,4053294,Blessing Uche
+2024-11-15,Scanner,4,199160,796640,Sophia Adams
+2024-07-11,USB Flash Drive,10,79604,796040,Emeka Nwoye
+2024-01-08,Scanner,8,275992,2207936,Blessing Uche
+2024-03-08,Keyboard,10,156363,1563630,Peter Okorie
+2024-10-18,Headphones,14,61143,856002,John Okafor
+2024-03-26,USB Flash Drive,15,140181,2102715,Mary Johnson
+2024-01-03,Laptop,1,82592,82592,Fatima Abdullahi
+2024-02-23,Keyboard,3,336899,1010697,Samuel Chinedu
+2024-05-02,External Hard Drive,15,272051,4080765,Grace Williams
+2024-06-25,Projector,1,381137,381137,Chiamaka Obi
+2024-09-10,External Hard Drive,9,299088,2691792,Samuel Chinedu
+2024-11-22,Laptop,12,27853,334236,Fatima Abdullahi
+2024-05-14,Headphones,2,183632,367264,Samuel Chinedu
+2024-08-14,Webcam,13,264973,3444649,Grace Williams
+2024-06-09,Monitor,7,259181,1814267,Michael Brown
+2024-05-16,Scanner,7,191256,1338792,Samuel Chinedu
+2024-03-31,External Hard Drive,11,168641,1855051,Fatima Abdullahi
+2024-02-02,Scanner,16,289259,4628144,Fatima Abdullahi
+2024-04-25,Keyboard,6,139006,834036,Emeka Nwoye
+2024-06-29,Headphones,17,272888,4639096,Samuel Chinedu
+2024-08-06,Power Bank,3,393845,1181535,Emeka Nwoye
+2024-08-21,Headphones,13,440353,5724589,Emeka Nwoye
+2024-05-18,Router,14,141185,1976590,Daniel Musa
+2024-02-29,Scanner,6,278675,1672050,Samuel Chinedu
+2024-10-04,Tablet,12,95857,1150284,Daniel Musa
+2024-08-25,Printer,10,165684,1656840,Mary Johnson
+2024-06-19,USB Flash Drive,7,457143,3200001,David Smith
+2024-10-02,Router,11,373822,4112042,David Smith
+2024-03-24,Laptop,18,109101,1963818,Sophia Adams
+2024-09-08,Tablet,10,300924,3009240,Daniel Musa
+2024-08-30,Headphones,13,327686,4259918,John Okafor
+2024-03-23,USB Flash Drive,17,20549,349333,Fatima Abdullahi
+2024-12-27,Scanner,3,421823,1265469,Fatima Abdullahi
+2024-07-19,Router,12,236307,2835684,Aisha Bello
+2024-02-10,Headphones,5,6555,32775,Paul Onyekachi
+2024-01-11,Smartphone,9,291274,2621466,Emeka Nwoye
+2024-12-31,Monitor,2,337878,675756,Daniel Musa
+2024-06-24,Mouse,1,497035,497035,Sophia Adams
+2024-12-01,Monitor,15,15270,229050,Aisha Bello
+2024-08-12,Printer,3,494996,1484988,Blessing Uche
+2024-07-26,Monitor,4,405420,1621680,John Okafor
+2024-10-07,Headphones,3,49337,148011,Daniel Musa
+2024-10-21,Mouse,9,426903,3842127,Daniel Musa
+2024-05-09,Router,4,289849,1159396,Mary Johnson
+2024-02-15,USB Flash Drive,20,279591,5591820,Peter Okorie
+2024-04-05,Router,19,117076,2224444,Samuel Chinedu
+2024-06-10,Headphones,10,192204,1922040,Fatima Abdullahi
+2024-04-20,Webcam,20,251787,5035740,Fatima Abdullahi
+2024-08-14,USB Flash Drive,12,222893,2674716,Mary Johnson
+2024-08-07,Headphones,14,91412,1279768,Daniel Musa
+2024-04-04,Keyboard,12,372487,4469844,Mary Johnson
+2024-04-17,Printer,14,18125,253750,Peter Okorie
+2024-07-16,Monitor,10,116791,1167910,Fatima Abdullahi
+2024-11-30,Scanner,3,350182,1050546,Emeka Nwoye
+2024-07-03,Headphones,17,59171,1005907,Samuel Chinedu
+2024-07-26,Keyboard,18,256741,4621338,Emeka Nwoye
+2024-02-19,Scanner,18,338267,6088806,Blessing Uche
+2024-06-12,Router,4,163849,655396,Aisha Bello
+2024-08-09,Monitor,6,40279,241674,Daniel Musa
+2024-07-31,Tablet,6,454774,2728644,Daniel Musa
+2024-05-05,Laptop,12,368753,4425036,Peter Okorie
+2024-09-26,Printer,11,22979,252769,Mary Johnson
+2024-07-01,Projector,8,353951,2831608,Michael Brown
+2024-12-28,Scanner,9,416051,3744459,Sophia Adams
+2024-12-31,USB Flash Drive,10,370743,3707430,Daniel Musa
+2024-04-23,Laptop,11,173781,1911591,Daniel Musa
+2024-04-18,Router,13,228220,2966860,David Smith
+2024-08-04,Tablet,6,335414,2012484,Samuel Chinedu
+2024-08-15,Printer,5,168724,843620,Fatima Abdullahi
+2024-10-10,Power Bank,1,124828,124828,David Smith
+2024-12-04,Webcam,17,483640,8221880,Aisha Bello
+2024-08-17,Tablet,6,301389,1808334,Chiamaka Obi
+2024-12-25,Smartphone,12,114079,1368948,Michael Brown
+2024-05-06,Projector,2,208502,417004,Paul Onyekachi
+2024-03-17,Webcam,12,335755,4029060,David Smith
+2024-12-01,External Hard Drive,7,255284,1786988,Sophia Adams
+2024-11-10,Webcam,15,355929,5338935,Chiamaka Obi
+2024-11-10,Power Bank,12,481650,5779800,Samuel Chinedu
+2024-09-10,Printer,10,229667,2296670,John Okafor
+2024-06-25,External Hard Drive,14,70000,980000,Michael Brown
+2024-03-26,Power Bank,3,232826,698478,David Smith
+2024-09-19,Printer,18,346793,6242274,Paul Onyekachi
+2024-09-30,Mouse,2,110417,220834,Fatima Abdullahi
+2024-11-24,Printer,4,93269,373076,Chiamaka Obi
+2024-02-07,Smartphone,11,214622,2360842,John Okafor
+2024-08-07,Keyboard,1,33909,33909,Sophia Adams
+2024-03-26,Headphones,11,317906,3496966,Paul Onyekachi
+2024-01-18,Router,3,150288,450864,Michael Brown
+2024-04-27,Smartphone,9,232837,2095533,Daniel Musa
+2024-09-12,Power Bank,20,216364,4327280,Emeka Nwoye
+2024-01-27,Router,12,89036,1068432,Paul Onyekachi
+2024-01-22,Webcam,2,476875,953750,Chiamaka Obi
+2024-10-05,Monitor,16,94067,1505072,Grace Williams
+2024-06-16,USB Flash Drive,20,233582,4671640,Aisha Bello
+2024-09-20,Webcam,9,376544,3388896,Aisha Bello
+2024-03-29,External Hard Drive,18,495671,8922078,Emeka Nwoye
+2024-10-05,Mouse,3,51210,153630,Peter Okorie
+2024-10-26,Monitor,2,305887,611774,Emeka Nwoye
+2024-09-04,External Hard Drive,2,120822,241644,Sophia Adams
+2024-09-06,Tablet,6,123448,740688,Samuel Chinedu
+2024-01-16,Projector,4,431324,1725296,David Smith
+2024-10-30,Laptop,6,57285,343710,Sophia Adams
+2024-01-18,Projector,5,211981,1059905,Peter Okorie
+2024-05-27,Keyboard,7,128758,901306,Fatima Abdullahi
+2024-05-11,Smartphone,18,369907,6658326,Emeka Nwoye
+2024-12-04,Scanner,11,486581,5352391,Aisha Bello
+2024-02-08,Keyboard,7,311890,2183230,John Okafor
+2024-08-12,Monitor,3,128731,386193,Sophia Adams
+2024-10-09,Monitor,8,356779,2854232,Blessing Uche
+2024-06-01,Printer,16,373765,5980240,John Okafor
+2024-02-26,Scanner,16,444722,7115552,David Smith
+2024-10-13,Scanner,10,476798,4767980,Fatima Abdullahi
+2024-06-29,Laptop,14,236519,3311266,Emeka Nwoye
+2024-02-25,Router,8,446084,3568672,John Okafor
+2024-06-02,Power Bank,4,38868,155472,Peter Okorie
+2024-07-24,External Hard Drive,8,174537,1396296,Peter Okorie
+2024-03-30,Monitor,1,244976,244976,Blessing Uche
+2024-07-27,USB Flash Drive,10,484463,4844630,Emeka Nwoye
+2024-02-03,Projector,11,312175,3433925,Sophia Adams
+2024-01-06,Smartphone,19,329448,6259512,Emeka Nwoye
+2024-01-08,External Hard Drive,15,464375,6965625,Michael Brown
+2024-03-22,Mouse,16,458145,7330320,Blessing Uche
+2024-10-04,Monitor,11,154267,1696937,David Smith
+2024-10-08,Headphones,13,227120,2952560,Sophia Adams
+2024-09-04,Mouse,1,183172,183172,Mary Johnson
+2024-07-24,Monitor,1,263601,263601,Michael Brown
+2024-12-24,Power Bank,2,246784,493568,Mary Johnson
+2024-06-05,Headphones,16,13956,223296,Paul Onyekachi
+2024-09-28,Webcam,2,431230,862460,Emeka Nwoye
+2024-06-27,Headphones,2,139994,279988,Emeka Nwoye
+2024-10-05,USB Flash Drive,14,290917,4072838,Paul Onyekachi
+2024-07-12,Mouse,17,438643,7456931,Michael Brown
+2024-10-13,Laptop,14,258709,3621926,Chiamaka Obi
+2024-06-18,Power Bank,1,294544,294544,Michael Brown
+2024-05-16,Monitor,2,22994,45988,Daniel Musa
+2024-02-15,Router,12,262359,3148308,Blessing Uche
+2024-06-18,USB Flash Drive,14,402628,5636792,Fatima Abdullahi
+2024-01-26,Keyboard,15,215731,3235965,Daniel Musa
+2024-01-01,Smartphone,11,97484,1072324,Aisha Bello
+2024-08-29,Monitor,17,174535,2967095,Blessing Uche
+2024-11-26,Smartphone,20,177183,3543660,Paul Onyekachi
+2024-07-20,Projector,12,459158,5509896,Fatima Abdullahi
+2024-05-11,Webcam,13,43498,565474,Michael Brown
+2024-10-16,Smartphone,13,275805,3585465,Grace Williams
+2024-12-04,Router,19,35056,666064,Mary Johnson
+2024-08-29,Printer,5,319194,1595970,Fatima Abdullahi
+2024-05-25,Webcam,11,252906,2781966,Mary Johnson
+2024-06-16,Webcam,8,6658,53264,Daniel Musa
+2024-09-17,Webcam,1,174102,174102,John Okafor
+2024-07-31,Mouse,8,468289,3746312,Grace Williams
+2024-12-24,Laptop,14,414284,5799976,John Okafor
+2024-06-23,Monitor,3,385463,1156389,Blessing Uche
+2024-12-16,Laptop,3,110000,330000,David Smith
+2024-09-11,Tablet,15,166760,2501400,David Smith
+2024-06-11,Webcam,11,286933,3156263,Blessing Uche
+2024-03-30,Smartphone,3,80154,240462,Michael Brown
+2024-03-22,Smartphone,15,260879,3913185,Daniel Musa
+2024-09-25,Webcam,12,281415,3376980,Aisha Bello
+2024-02-01,Printer,3,184087,552261,Grace Williams
+2024-04-22,Headphones,10,437629,4376290,Emeka Nwoye
+2024-09-26,Tablet,2,138345,276690,Peter Okorie
+2024-09-25,Keyboard,11,262622,2888842,Fatima Abdullahi
+2024-05-27,Mouse,8,80779,646232,Emeka Nwoye
+2024-01-26,Mouse,5,384816,1924080,Samuel Chinedu
+2024-02-15,Keyboard,18,125509,2259162,Peter Okorie
+2024-09-09,Power Bank,8,235155,1881240,Grace Williams
+2024-01-02,Projector,19,199054,3782026,Samuel Chinedu
+2024-01-13,External Hard Drive,3,297219,891657,Daniel Musa
+2024-01-03,Mouse,16,286488,4583808,David Smith
+2024-10-10,Webcam,3,430124,1290372,Michael Brown
+2024-04-19,Monitor,17,456512,7760704,Chiamaka Obi
+2024-08-24,Webcam,15,394943,5924145,Aisha Bello
+2024-08-01,External Hard Drive,17,118927,2021759,Samuel Chinedu
+2024-07-18,USB Flash Drive,6,268666,1611996,Sophia Adams
+2024-09-18,Keyboard,4,383073,1532292,Chiamaka Obi
+2024-12-01,USB Flash Drive,5,156313,781565,David Smith
+2024-11-01,Tablet,2,154808,309616,Sophia Adams
+2024-06-11,Webcam,4,316172,1264688,Daniel Musa
+2024-08-23,Projector,19,258909,4919271,Fatima Abdullahi
+2024-04-22,Printer,14,39367,551138,Blessing Uche
+2024-03-03,Tablet,13,349857,4548141,Sophia Adams
+2024-09-22,Power Bank,19,185102,3516938,Samuel Chinedu
+2024-01-11,Laptop,11,25156,276716,Samuel Chinedu
+2024-03-14,Printer,20,78562,1571240,Blessing Uche
+2024-05-11,External Hard Drive,5,203897,1019485,Blessing Uche
+2024-05-31,External Hard Drive,13,48184,626392,Samuel Chinedu
+2024-11-01,External Hard Drive,9,280015,2520135,Fatima Abdullahi
+2024-03-19,External Hard Drive,19,399003,7581057,Sophia Adams
+2024-04-19,Projector,9,94216,847944,Samuel Chinedu
+2024-06-14,Tablet,6,371754,2230524,Fatima Abdullahi
+2024-08-04,Printer,6,378412,2270472,Aisha Bello
+2024-12-27,Projector,4,111846,447384,Samuel Chinedu
+2024-06-06,Smartphone,4,303373,1213492,David Smith
+2024-04-11,Scanner,12,51707,620484,Blessing Uche
+2024-07-18,External Hard Drive,20,16916,338320,John Okafor
+2024-03-15,Scanner,12,444691,5336292,Fatima Abdullahi
+2024-03-30,Keyboard,12,393759,4725108,Sophia Adams
+2024-08-28,USB Flash Drive,10,365027,3650270,John Okafor
+2024-07-03,Laptop,12,213356,2560272,Aisha Bello
+2024-11-05,Laptop,15,117437,1761555,Grace Williams
+2024-04-15,Scanner,8,101252,810016,Emeka Nwoye
+2024-12-28,Laptop,19,53635,1019065,Blessing Uche
+2024-12-08,Tablet,1,263546,263546,Emeka Nwoye
+2024-08-21,USB Flash Drive,12,447952,5375424,Blessing Uche
+2024-05-06,Power Bank,17,375934,6390878,Blessing Uche
+2024-12-14,USB Flash Drive,8,133160,1065280,Aisha Bello
+2024-07-18,Printer,19,141371,2686049,Emeka Nwoye
+2024-12-17,Projector,3,115205,345615,Samuel Chinedu
+2024-12-17,Smartphone,3,255700,767100,Aisha Bello
+2024-10-06,Monitor,10,17449,174490,Paul Onyekachi
+2024-10-15,Projector,1,470769,470769,Chiamaka Obi
+2024-01-16,Keyboard,13,466011,6058143,Paul Onyekachi
+2024-12-19,External Hard Drive,16,430786,6892576,Chiamaka Obi
+2024-01-10,Projector,15,87177,1307655,Emeka Nwoye
+2024-11-02,Headphones,3,228537,685611,Emeka Nwoye
+2024-09-10,USB Flash Drive,2,390663,781326,Emeka Nwoye
+2024-11-27,Laptop,7,52154,365078,Samuel Chinedu
+2024-04-07,Router,3,73798,221394,Aisha Bello
+2024-01-28,Mouse,7,175756,1230292,Mary Johnson
+2024-06-06,Projector,7,197528,1382696,Mary Johnson
+2024-06-26,Smartphone,6,129466,776796,John Okafor
+2024-09-28,Smartphone,19,380792,7235048,Fatima Abdullahi
+2024-12-11,Tablet,3,433271,1299813,Chiamaka Obi
+2024-06-04,Webcam,11,103074,1133814,Mary Johnson
+2024-02-27,Headphones,2,180575,361150,Grace Williams
+2024-07-02,Keyboard,13,144514,1878682,Grace Williams
+2024-08-10,Smartphone,1,455028,455028,John Okafor
+2024-03-05,Tablet,8,221320,1770560,Peter Okorie
+2024-08-07,Router,5,186656,933280,Grace Williams
+2024-03-19,Power Bank,2,411105,822210,Daniel Musa
+2024-01-12,Projector,18,14604,262872,Paul Onyekachi
+2024-09-20,Headphones,13,164074,2132962,Aisha Bello
+2024-08-23,Smartphone,6,56667,340002,Paul Onyekachi
+2024-09-18,Printer,8,228401,1827208,Peter Okorie
+2024-03-11,Webcam,1,82037,82037,Grace Williams
+2024-02-19,Printer,16,387507,6200112,Peter Okorie
+2024-07-14,Printer,2,29943,59886,Samuel Chinedu
+2024-12-12,Power Bank,3,214903,644709,Chiamaka Obi
+2024-12-19,Mouse,18,294382,5298876,Peter Okorie
+2024-12-19,Tablet,3,71075,213225,David Smith
+2024-08-12,Laptop,13,294300,3825900,Grace Williams
+2024-06-25,Keyboard,9,287323,2585907,Samuel Chinedu
+2024-01-20,Scanner,2,384739,769478,Peter Okorie
+2024-12-13,Router,2,265986,531972,Blessing Uche
+2024-07-12,Mouse,3,236065,708195,Emeka Nwoye
+2024-03-20,Keyboard,20,184955,3699100,John Okafor
+2024-08-20,Laptop,7,140289,982023,Emeka Nwoye
+2024-12-28,Monitor,4,309789,1239156,Sophia Adams
+2024-07-21,Keyboard,14,334506,4683084,Daniel Musa
+2024-03-02,Keyboard,16,236031,3776496,Peter Okorie
+2024-12-09,Laptop,13,447710,5820230,Chiamaka Obi
+2024-09-19,External Hard Drive,16,138617,2217872,Peter Okorie
+2024-10-28,Headphones,2,376097,752194,Samuel Chinedu
+2024-03-28,Tablet,16,128179,2050864,Blessing Uche
+2024-10-12,Keyboard,10,406032,4060320,Peter Okorie
+2024-09-06,Power Bank,13,247560,3218280,Peter Okorie
+2024-03-16,Monitor,9,327981,2951829,John Okafor
+2024-09-07,Router,6,341347,2048082,Paul Onyekachi
+2024-06-21,Headphones,7,260822,1825754,Peter Okorie
+2024-06-30,Monitor,11,416304,4579344,John Okafor
+2024-11-21,Webcam,5,297891,1489455,Aisha Bello
+2024-07-11,Headphones,17,475788,8088396,Chiamaka Obi
+2024-08-27,Smartphone,14,419635,5874890,Grace Williams
+2024-08-21,External Hard Drive,7,477399,3341793,Michael Brown
+2024-05-04,Laptop,1,452938,452938,Aisha Bello
+2024-07-05,Smartphone,17,77603,1319251,Fatima Abdullahi
+2024-01-13,Projector,13,296432,3853616,Sophia Adams
+2024-04-04,USB Flash Drive,20,429066,8581320,Fatima Abdullahi
+2024-03-18,Projector,18,233056,4195008,Daniel Musa
+2024-11-25,USB Flash Drive,16,313600,5017600,Peter Okorie
+2024-09-03,Router,19,280210,5323990,Emeka Nwoye
+2024-11-12,Scanner,1,141373,141373,Sophia Adams
+2024-07-30,External Hard Drive,11,437211,4809321,Aisha Bello
+2024-08-13,Power Bank,7,16832,117824,John Okafor
+2024-01-14,Smartphone,13,168890,2195570,Chiamaka Obi
+2024-08-10,Mouse,15,191028,2865420,Samuel Chinedu
+2024-10-28,Scanner,14,195098,2731372,Chiamaka Obi
+2024-07-24,Printer,20,293116,5862320,Emeka Nwoye
+2024-01-12,Monitor,18,313492,5642856,Sophia Adams
+2024-04-27,Router,7,490309,3432163,Paul Onyekachi
+2024-08-21,Keyboard,16,477367,7637872,Fatima Abdullahi
+2024-07-26,Tablet,7,236176,1653232,Paul Onyekachi
+2024-03-30,Keyboard,18,458576,8254368,Mary Johnson
+2024-11-06,Printer,9,22238,200142,Fatima Abdullahi
+2024-11-28,Power Bank,3,236548,709644,Samuel Chinedu
+2024-01-09,Printer,11,342010,3762110,Paul Onyekachi
+2024-04-25,Power Bank,12,339458,4073496,Aisha Bello
+2024-09-13,Tablet,1,171983,171983,Sophia Adams
+2024-06-17,Mouse,15,83039,1245585,Emeka Nwoye
+2024-08-26,USB Flash Drive,19,380874,7236606,Grace Williams
+2024-06-20,Headphones,13,403223,5241899,Mary Johnson
+2024-10-11,USB Flash Drive,8,21171,169368,Mary Johnson
+2024-07-27,Projector,16,109879,1758064,Samuel Chinedu
+2024-01-27,External Hard Drive,16,487655,7802480,Grace Williams
+2024-03-29,Tablet,8,386602,3092816,Fatima Abdullahi
+2024-03-09,Webcam,3,391951,1175853,Michael Brown
+2024-01-09,Laptop,7,240160,1681120,John Okafor
+2024-01-11,Projector,9,241397,2172573,Chiamaka Obi
+2024-09-25,Tablet,12,120542,1446504,Paul Onyekachi
+2024-06-27,USB Flash Drive,7,117124,819868,Mary Johnson
+2024-07-06,Projector,18,256054,4608972,John Okafor
+2024-02-08,Monitor,12,131551,1578612,Blessing Uche
+2024-03-17,Router,1,432985,432985,Chiamaka Obi
+2024-04-24,External Hard Drive,2,15962,31924,David Smith
+2024-12-11,Mouse,19,100798,1915162,Emeka Nwoye
+2024-09-23,Smartphone,20,307261,6145220,Samuel Chinedu
+2024-12-16,Keyboard,9,113155,1018395,Blessing Uche
+2024-09-13,Tablet,14,358763,5022682,Samuel Chinedu
+2024-08-31,Laptop,17,31465,534905,Daniel Musa
+2024-06-19,USB Flash Drive,20,76595,1531900,John Okafor
+2024-04-22,Smartphone,18,16010,288180,Emeka Nwoye
+2024-02-24,Power Bank,16,231768,3708288,Fatima Abdullahi
+2024-04-01,Monitor,10,264560,2645600,Peter Okorie
+2024-02-05,Mouse,14,10981,153734,David Smith
+2024-04-18,Scanner,5,221830,1109150,Paul Onyekachi
+2024-08-10,Smartphone,11,133991,1473901,Aisha Bello
+2024-06-01,Scanner,12,67581,810972,Mary Johnson
+2024-04-02,Scanner,6,431458,2588748,Paul Onyekachi
+2024-08-26,Webcam,7,371604,2601228,Sophia Adams
+2024-02-10,Keyboard,5,144241,721205,Peter Okorie
+2024-03-09,USB Flash Drive,6,315837,1895022,Fatima Abdullahi
+2024-09-17,Monitor,2,118289,236578,Aisha Bello
+2024-09-09,Tablet,18,186777,3361986,Emeka Nwoye
+2024-04-26,Webcam,6,57435,344610,David Smith
+2024-02-29,Router,9,412010,3708090,Daniel Musa
+2024-11-23,Power Bank,15,412746,6191190,Aisha Bello
+2024-08-26,Router,5,242328,1211640,Sophia Adams
+2024-06-30,Scanner,12,97853,1174236,Peter Okorie
+2024-11-01,Laptop,11,116056,1276616,Peter Okorie
+2024-12-03,Smartphone,1,417736,417736,Sophia Adams
+2024-05-01,Webcam,9,334151,3007359,Grace Williams
+2024-11-09,Projector,8,7206,57648,Paul Onyekachi
+2024-12-19,Printer,3,272868,818604,John Okafor
+2024-03-01,USB Flash Drive,12,202613,2431356,Chiamaka Obi
+2024-08-09,Keyboard,11,185322,2038542,Blessing Uche
+2024-10-01,Printer,20,470147,9402940,John Okafor
+2024-11-30,External Hard Drive,3,377429,1132287,David Smith
+2024-06-02,External Hard Drive,1,472976,472976,Samuel Chinedu
+2024-11-04,Router,7,88229,617603,Chiamaka Obi
+2024-08-09,Mouse,7,203902,1427314,John Okafor
+2024-08-07,Projector,9,333758,3003822,Fatima Abdullahi
+2024-10-01,Keyboard,15,38825,582375,Aisha Bello
+2024-09-01,Scanner,14,14841,207774,Emeka Nwoye
+2024-10-07,Router,15,180528,2707920,John Okafor
+2024-12-24,Laptop,3,473862,1421586,Blessing Uche
+2024-12-25,Tablet,14,106968,1497552,Sophia Adams
+2024-01-18,Tablet,15,277069,4156035,Paul Onyekachi
+2024-09-06,Projector,1,223278,223278,Samuel Chinedu
+2024-10-18,USB Flash Drive,20,92264,1845280,Peter Okorie
+2024-04-30,Projector,17,460505,7828585,Blessing Uche
+2024-11-15,Printer,9,384744,3462696,Mary Johnson
+2024-09-07,Laptop,18,195141,3512538,Chiamaka Obi
+2024-09-12,Webcam,5,458335,2291675,Samuel Chinedu
+2024-06-01,Webcam,3,118757,356271,Grace Williams
+2024-08-04,Projector,7,293558,2054906,Daniel Musa
+2024-11-19,Keyboard,11,291511,3206621,Blessing Uche
+2024-08-02,Mouse,5,5223,26115,Samuel Chinedu
+2024-03-26,Power Bank,7,222747,1559229,Samuel Chinedu
+2024-07-11,USB Flash Drive,3,206840,620520,Peter Okorie
+2024-07-11,Projector,15,24868,373020,Daniel Musa
+2024-05-08,USB Flash Drive,20,184575,3691500,John Okafor
+2024-01-15,Power Bank,11,149418,1643598,David Smith
+2024-04-15,Projector,6,318270,1909620,David Smith
+2024-09-22,USB Flash Drive,1,341055,341055,David Smith
+2024-11-16,Router,19,391543,7439317,John Okafor
+2024-07-27,Laptop,20,498297,9965940,John Okafor
+2024-08-03,Mouse,20,18549,370980,John Okafor
+2024-11-12,USB Flash Drive,14,371291,5198074,Sophia Adams
+2024-08-19,Projector,15,191068,2866020,Michael Brown
+2024-07-04,Printer,5,332538,1662690,Sophia Adams
+2024-12-26,Webcam,4,287323,1149292,Blessing Uche
+2024-02-17,Webcam,3,295780,887340,Sophia Adams
+2024-08-18,Smartphone,8,288968,2311744,Sophia Adams
+2024-03-27,Keyboard,11,85126,936386,Michael Brown
+2024-09-13,USB Flash Drive,11,485843,5344273,Blessing Uche
+2024-12-21,External Hard Drive,11,379059,4169649,Samuel Chinedu
+2024-02-27,Laptop,11,220450,2424950,Paul Onyekachi
+2024-04-10,Printer,16,345627,5530032,Paul Onyekachi
+2024-10-07,Smartphone,11,280455,3085005,Samuel Chinedu
+2024-05-02,Tablet,16,254303,4068848,Daniel Musa
+2024-11-21,Keyboard,17,253491,4309347,Grace Williams
+2024-08-25,USB Flash Drive,7,412680,2888760,John Okafor
+2024-11-11,Keyboard,1,488498,488498,Mary Johnson
+2024-04-27,Headphones,10,412636,4126360,Chiamaka Obi
+2024-06-20,Power Bank,8,269823,2158584,Aisha Bello
+2024-07-10,Tablet,20,205138,4102760,Mary Johnson
+2024-06-01,Keyboard,16,370148,5922368,Daniel Musa
+2024-10-25,Router,14,115501,1617014,Aisha Bello
+2024-06-08,Smartphone,9,479859,4318731,Emeka Nwoye
+2024-06-23,Printer,20,442098,8841960,Aisha Bello
+2024-11-11,Webcam,20,184822,3696440,Peter Okorie
+2024-07-19,Projector,12,164200,1970400,Michael Brown
+2024-06-11,Mouse,4,243250,973000,David Smith
+2024-03-09,Mouse,3,28818,86454,Fatima Abdullahi
+2024-05-26,Webcam,6,101305,607830,Peter Okorie
+2024-03-11,Mouse,10,451456,4514560,Aisha Bello
+2024-04-26,Laptop,2,459779,919558,Grace Williams
+2024-06-30,Webcam,4,235584,942336,Daniel Musa
+2024-11-28,Webcam,2,101589,203178,Blessing Uche
+2024-10-28,Router,11,478793,5266723,Fatima Abdullahi
+2024-04-16,Tablet,10,371703,3717030,Grace Williams
+2024-10-16,Monitor,9,410221,3691989,Paul Onyekachi
+2024-10-19,Power Bank,3,18687,56061,John Okafor
+2024-04-12,Mouse,10,464162,4641620,Paul Onyekachi
+2024-02-25,Headphones,4,81058,324232,John Okafor
+2024-11-17,Tablet,1,127577,127577,Daniel Musa
+2024-10-12,Tablet,17,491003,8347051,Chiamaka Obi
+2024-07-15,Mouse,16,193280,3092480,Sophia Adams
+2024-05-10,Router,11,389765,4287415,Grace Williams
+2024-03-20,Webcam,17,397039,6749663,Peter Okorie
+2024-06-21,Power Bank,10,382644,3826440,Peter Okorie
+2024-10-22,Mouse,19,101034,1919646,Mary Johnson
+2024-11-01,Keyboard,9,43389,390501,Michael Brown
+2024-12-09,Monitor,4,381885,1527540,Samuel Chinedu
+2024-10-06,Mouse,2,256258,512516,Michael Brown
+2024-04-14,Printer,2,315360,630720,Daniel Musa
+2024-04-07,Laptop,5,178557,892785,Chiamaka Obi
+2024-05-10,Power Bank,19,99776,1895744,Paul Onyekachi
+2024-07-26,Monitor,4,188761,755044,Emeka Nwoye
+2024-09-19,Tablet,6,430841,2585046,John Okafor
+2024-02-08,Laptop,11,10201,112211,Samuel Chinedu
+2024-09-21,Headphones,16,111129,1778064,Grace Williams
+2024-04-14,Smartphone,13,302779,3936127,David Smith
+2024-08-26,Smartphone,16,246124,3937984,Sophia Adams
+2024-09-19,Power Bank,7,267399,1871793,Daniel Musa
+2024-04-21,Projector,17,328910,5591470,Aisha Bello
+2024-11-26,Headphones,6,417571,2505426,Grace Williams
+2024-07-23,USB Flash Drive,12,236943,2843316,Peter Okorie
+2024-08-03,External Hard Drive,20,246245,4924900,John Okafor
+2024-06-20,Power Bank,10,11734,117340,Emeka Nwoye
+2024-01-26,Projector,17,20394,346698,Michael Brown
+2024-10-03,Keyboard,12,128376,1540512,Chiamaka Obi
+2024-07-03,Projector,15,234947,3524205,Peter Okorie
+2024-04-01,Scanner,7,52111,364777,Samuel Chinedu
+2024-01-26,Mouse,3,441775,1325325,Michael Brown
+2024-08-25,USB Flash Drive,8,404127,3233016,Chiamaka Obi
+2024-10-31,Keyboard,7,255469,1788283,Michael Brown
+2024-07-03,Webcam,1,46587,46587,Fatima Abdullahi
+2024-11-12,Router,7,306396,2144772,Michael Brown
+2024-05-21,Power Bank,13,20768,269984,Paul Onyekachi
+2024-04-30,Keyboard,13,231580,3010540,Grace Williams
+2024-05-28,Webcam,10,289040,2890400,Peter Okorie
+2024-11-17,Router,6,310838,1865028,David Smith
+2024-04-27,Webcam,9,176080,1584720,Blessing Uche
+2024-02-15,Projector,18,267481,4814658,Chiamaka Obi
+2024-06-24,Mouse,18,223242,4018356,Michael Brown
+2024-07-25,Tablet,9,305224,2747016,Chiamaka Obi
+2024-01-21,Headphones,12,24036,288432,Daniel Musa
+2024-04-23,Printer,8,77678,621424,Sophia Adams
+2024-11-04,Monitor,3,44361,133083,Grace Williams
+2024-02-22,Mouse,1,190522,190522,Blessing Uche
+2024-10-20,Monitor,14,132334,1852676,Emeka Nwoye
+2024-03-03,Mouse,5,43101,215505,Emeka Nwoye
+2024-02-11,Projector,2,235391,470782,Samuel Chinedu
+2024-10-31,Scanner,18,312895,5632110,Mary Johnson
+2024-11-26,Smartphone,19,371281,7054339,David Smith
+2024-11-27,Tablet,19,253766,4821554,Samuel Chinedu
+2024-07-15,USB Flash Drive,5,385979,1929895,Blessing Uche
+2024-08-27,External Hard Drive,6,282402,1694412,Grace Williams
+2024-07-22,Keyboard,11,367067,4037737,Mary Johnson
+2024-04-13,Laptop,5,251649,1258245,Chiamaka Obi
+2024-07-15,Keyboard,15,50083,751245,David Smith
+2024-07-10,Scanner,10,280524,2805240,Blessing Uche
+2024-08-11,Tablet,20,425965,8519300,Sophia Adams
+2024-04-16,Power Bank,5,341255,1706275,Mary Johnson
+2024-12-19,External Hard Drive,2,275499,550998,Peter Okorie
+2024-11-23,Keyboard,12,135320,1623840,Peter Okorie
+2024-11-01,Tablet,4,214973,859892,Samuel Chinedu
+2024-02-16,USB Flash Drive,11,441710,4858810,Daniel Musa
+2024-11-03,Keyboard,13,299090,3888170,Emeka Nwoye
+2024-03-20,Router,12,12509,150108,John Okafor
+2024-01-16,Power Bank,4,441266,1765064,John Okafor
+2024-04-04,Projector,8,230421,1843368,Paul Onyekachi
+2024-01-19,External Hard Drive,13,274237,3565081,Peter Okorie
+2024-09-12,Projector,5,392019,1960095,Aisha Bello
+2024-06-20,Power Bank,1,489418,489418,Emeka Nwoye
+2024-12-31,Headphones,5,368506,1842530,Fatima Abdullahi
+2024-03-10,Scanner,1,339209,339209,Daniel Musa
+2024-10-12,Mouse,13,433459,5634967,Emeka Nwoye
+2024-06-11,Mouse,12,205854,2470248,Blessing Uche
+2024-03-26,Monitor,3,56522,169566,Blessing Uche
+2024-11-15,Printer,6,242831,1456986,Fatima Abdullahi
+2024-03-20,Router,20,67522,1350440,Blessing Uche
+2024-01-08,Webcam,17,46958,798286,Chiamaka Obi
+2024-07-29,Tablet,15,291233,4368495,Grace Williams
+2024-03-18,Router,13,235541,3062033,Paul Onyekachi
+2024-04-11,Keyboard,18,425582,7660476,Chiamaka Obi
+2024-04-09,Laptop,10,246062,2460620,Grace Williams
+2024-12-07,Headphones,18,26671,480078,Paul Onyekachi
+2024-02-14,External Hard Drive,16,41325,661200,John Okafor
+2024-11-12,Printer,2,120872,241744,Michael Brown
+2024-06-14,Projector,3,391713,1175139,Fatima Abdullahi
+2024-08-29,USB Flash Drive,14,51945,727230,Blessing Uche
+2024-11-06,Monitor,2,28775,57550,Blessing Uche
+2024-05-14,Monitor,9,308502,2776518,Michael Brown
+2024-06-20,Smartphone,9,288990,2600910,Grace Williams
+2024-12-03,Monitor,16,423911,6782576,Emeka Nwoye
+2024-05-31,Power Bank,15,53612,804180,David Smith
+2024-05-23,USB Flash Drive,7,452523,3167661,Samuel Chinedu
+2024-10-09,Power Bank,8,314581,2516648,Fatima Abdullahi
+2024-04-03,Tablet,11,477431,5251741,Emeka Nwoye
+2024-11-24,Monitor,19,379054,7202026,Sophia Adams
+2024-09-11,Scanner,6,206705,1240230,Sophia Adams
+2024-08-17,Mouse,10,65348,653480,Michael Brown
+2024-03-08,External Hard Drive,20,225151,4503020,Blessing Uche
+2024-03-17,External Hard Drive,19,257284,4888396,Sophia Adams
+2024-05-01,Smartphone,18,13479,242622,Mary Johnson
+2024-03-22,Smartphone,1,405432,405432,Emeka Nwoye
+2024-01-15,Router,13,151291,1966783,Peter Okorie
+2024-08-02,Laptop,20,376204,7524080,Emeka Nwoye
+2024-01-12,External Hard Drive,11,217897,2396867,Paul Onyekachi
+2024-05-03,Projector,7,390208,2731456,Mary Johnson
+2024-08-14,Router,4,147594,590376,Mary Johnson
+2024-01-18,Keyboard,18,438131,7886358,Aisha Bello
+2024-12-09,Scanner,18,217988,3923784,Fatima Abdullahi
+2024-12-21,Webcam,17,362685,6165645,Emeka Nwoye
+2024-10-29,Smartphone,16,158812,2540992,Blessing Uche
+2024-10-18,Mouse,3,491243,1473729,Peter Okorie
+2024-05-27,Webcam,3,56189,168567,Fatima Abdullahi
+2024-01-27,Scanner,2,498379,996758,Fatima Abdullahi
+2024-01-27,Scanner,6,254535,1527210,Blessing Uche
+2024-05-04,Router,16,384023,6144368,Daniel Musa
+2024-04-17,Monitor,6,224488,1346928,Mary Johnson
+2024-09-29,Smartphone,2,232223,464446,Paul Onyekachi
+2024-12-15,Router,19,390993,7428867,Fatima Abdullahi
+2024-01-21,Projector,10,300422,3004220,Grace Williams
+2024-09-12,Projector,1,62704,62704,Paul Onyekachi
+2024-12-16,Mouse,11,258151,2839661,Peter Okorie
+2024-11-02,Monitor,6,278381,1670286,Blessing Uche
+2024-03-22,Mouse,6,58329,349974,Blessing Uche
+2024-01-21,Webcam,14,333631,4670834,Chiamaka Obi
+2024-07-19,Webcam,4,482450,1929800,Blessing Uche
+2024-08-06,Mouse,12,182086,2185032,Aisha Bello
+2024-12-01,Keyboard,9,395772,3561948,Michael Brown
+2024-04-20,Printer,5,159629,798145,Paul Onyekachi
+2024-01-28,Scanner,6,305591,1833546,Fatima Abdullahi
+2024-07-16,Smartphone,11,418755,4606305,David Smith
+2024-01-27,Mouse,1,488875,488875,Emeka Nwoye
+2024-02-15,Webcam,13,57857,752141,Sophia Adams
+2024-11-09,Power Bank,6,359581,2157486,Mary Johnson
+2024-06-17,Tablet,16,134130,2146080,Daniel Musa
+2024-09-14,Webcam,16,157592,2521472,John Okafor
+2024-12-02,Headphones,20,107809,2156180,John Okafor
+2024-02-07,Scanner,19,247111,4695109,Aisha Bello
+2024-03-02,USB Flash Drive,20,455843,9116860,Chiamaka Obi
+2024-10-08,Router,10,35309,353090,Aisha Bello
+2024-02-11,Mouse,11,139439,1533829,Fatima Abdullahi
+2024-05-27,Tablet,4,450531,1802124,Grace Williams
+2024-03-09,USB Flash Drive,10,249979,2499790,Chiamaka Obi
+2024-01-05,Projector,1,449218,449218,Mary Johnson
+2024-02-15,Tablet,16,262529,4200464,Samuel Chinedu
+2024-12-24,Laptop,10,86746,867460,Samuel Chinedu
+2024-10-04,Headphones,18,126180,2271240,Samuel Chinedu
+2024-02-09,Tablet,11,245442,2699862,Chiamaka Obi
+2024-07-07,Power Bank,20,227865,4557300,David Smith
+2024-02-10,Mouse,12,410936,4931232,Daniel Musa
+2024-12-31,USB Flash Drive,16,89695,1435120,Mary Johnson
+2024-01-26,Smartphone,6,164110,984660,Grace Williams
+2024-08-06,Tablet,10,247644,2476440,Emeka Nwoye
+2024-04-18,External Hard Drive,17,188478,3204126,Fatima Abdullahi
+2024-09-13,Keyboard,3,70227,210681,Paul Onyekachi
+2024-02-16,Smartphone,1,257842,257842,Grace Williams
+2024-02-28,Smartphone,18,486131,8750358,Blessing Uche
+2024-06-08,Tablet,16,403701,6459216,Emeka Nwoye
+2024-08-09,USB Flash Drive,11,226781,2494591,Blessing Uche
+2024-07-12,Monitor,12,442192,5306304,Aisha Bello
+2024-03-30,Headphones,3,255528,766584,Samuel Chinedu
+2024-11-02,Printer,5,369098,1845490,Peter Okorie
+2024-11-04,Smartphone,4,57875,231500,John Okafor
+2024-10-13,Webcam,6,307075,1842450,Samuel Chinedu
+2024-07-13,USB Flash Drive,10,462720,4627200,Daniel Musa
+2024-01-15,Webcam,8,159822,1278576,Daniel Musa
+2024-10-14,Router,2,471192,942384,Paul Onyekachi
+2024-12-20,Monitor,13,105964,1377532,Sophia Adams
+2024-05-03,Printer,13,227423,2956499,Blessing Uche
+2024-11-16,Power Bank,11,272735,3000085,Paul Onyekachi
+2024-08-15,Printer,9,110865,997785,Mary Johnson
+2024-02-27,Laptop,9,149972,1349748,Fatima Abdullahi
+2024-02-03,Tablet,20,225772,4515440,David Smith
+2024-11-03,Printer,12,176917,2123004,Daniel Musa
+2024-05-30,Webcam,12,56175,674100,Fatima Abdullahi
+2024-04-17,Smartphone,8,367140,2937120,John Okafor
+2024-07-16,Webcam,6,84007,504042,Sophia Adams
+2024-07-05,Laptop,11,381542,4196962,Samuel Chinedu
+2024-11-01,Smartphone,15,276490,4147350,Emeka Nwoye
+2024-05-22,Power Bank,9,406372,3657348,Fatima Abdullahi
+2024-07-16,Monitor,14,434784,6086976,Michael Brown
+2024-03-01,Router,16,255164,4082624,Blessing Uche
+2024-02-19,Keyboard,20,160863,3217260,Paul Onyekachi
+2024-02-14,Keyboard,2,216198,432396,Aisha Bello
+2024-04-02,Monitor,1,259210,259210,Sophia Adams
+2024-07-21,Webcam,3,389097,1167291,Michael Brown
+2024-11-23,Power Bank,20,118489,2369780,Chiamaka Obi
+2024-05-26,Monitor,5,356317,1781585,Daniel Musa
+2024-03-25,Printer,10,495566,4955660,Paul Onyekachi
+2024-06-11,Projector,6,285210,1711260,Daniel Musa
+2024-02-22,USB Flash Drive,14,229422,3211908,Aisha Bello
+2024-12-20,USB Flash Drive,1,176641,176641,Peter Okorie
+2024-05-15,Monitor,7,354276,2479932,David Smith
+2024-05-22,Router,9,141825,1276425,John Okafor
+2024-01-28,USB Flash Drive,11,332568,3658248,Paul Onyekachi
+2024-05-25,Smartphone,19,227482,4322158,Paul Onyekachi
+2024-01-16,Headphones,9,265730,2391570,Aisha Bello
+2024-03-20,Webcam,8,489775,3918200,Emeka Nwoye
+2024-06-15,Projector,2,191297,382594,Peter Okorie
+2024-08-26,Router,5,481039,2405195,Michael Brown
+2024-03-12,USB Flash Drive,3,292288,876864,Aisha Bello
+2024-07-31,Smartphone,4,96627,386508,John Okafor
+2024-05-13,Printer,8,8928,71424,Grace Williams
+2024-08-01,Scanner,4,42805,171220,David Smith
+2024-08-07,Headphones,20,57911,1158220,Paul Onyekachi
+2024-08-28,Scanner,15,87754,1316310,Daniel Musa
+2024-03-22,USB Flash Drive,12,331867,3982404,Daniel Musa
+2024-05-16,Keyboard,3,257187,771561,Mary Johnson
+2024-06-13,Keyboard,4,31840,127360,John Okafor
+2024-12-28,Mouse,1,266796,266796,Fatima Abdullahi
+2024-05-19,External Hard Drive,17,351804,5980668,Samuel Chinedu
+2024-05-04,Headphones,20,203333,4066660,Samuel Chinedu
+2024-12-02,Keyboard,10,328653,3286530,Chiamaka Obi
+2024-12-07,Power Bank,15,239777,3596655,Sophia Adams
+2024-04-10,Mouse,2,200070,400140,David Smith
+2024-04-14,Smartphone,13,103421,1344473,Michael Brown
+2024-07-15,Laptop,10,47904,479040,David Smith
+2024-10-12,Keyboard,2,48952,97904,Samuel Chinedu
+2024-11-16,Headphones,20,228883,4577660,Emeka Nwoye
+2024-02-27,Printer,6,471438,2828628,Daniel Musa
+2024-03-31,USB Flash Drive,8,424239,3393912,David Smith
+2024-06-27,Tablet,2,483974,967948,David Smith
+2024-07-07,Scanner,14,374633,5244862,Paul Onyekachi
+2024-04-09,Webcam,15,350021,5250315,Aisha Bello
+2024-04-10,Webcam,10,187245,1872450,Grace Williams
+2024-03-27,Keyboard,20,159264,3185280,Emeka Nwoye
+2024-06-14,Printer,8,161496,1291968,Blessing Uche
+2024-04-16,Headphones,6,168577,1011462,Fatima Abdullahi
+2024-05-24,USB Flash Drive,9,451302,4061718,Aisha Bello
+2024-04-22,Laptop,20,450793,9015860,Paul Onyekachi
+2024-06-26,Router,9,400803,3607227,Chiamaka Obi
+2024-10-26,Webcam,17,230601,3920217,Daniel Musa
+2024-11-22,Monitor,16,58803,940848,Sophia Adams
+2024-10-09,Mouse,17,415800,7068600,Emeka Nwoye
+2024-01-09,Mouse,12,425178,5102136,Daniel Musa
+2024-04-21,Headphones,8,31158,249264,Peter Okorie
+2024-10-07,USB Flash Drive,20,448495,8969900,Blessing Uche
+2024-01-28,Mouse,12,484020,5808240,Paul Onyekachi
+2024-01-15,Smartphone,7,210090,1470630,Mary Johnson
+2024-02-13,Printer,9,425552,3829968,Paul Onyekachi
+2024-02-10,Printer,17,263787,4484379,Grace Williams
+2024-06-04,Projector,6,276509,1659054,Emeka Nwoye
+2024-06-10,Keyboard,10,296796,2967960,Aisha Bello
+2024-02-26,Smartphone,7,248721,1741047,Daniel Musa
+2024-04-25,Mouse,18,432700,7788600,Sophia Adams
+2024-01-12,Headphones,3,299725,899175,Peter Okorie
+2024-05-04,External Hard Drive,7,370660,2594620,Paul Onyekachi
+2024-05-01,USB Flash Drive,18,302656,5447808,Samuel Chinedu
+2024-02-07,Laptop,18,496587,8938566,Aisha Bello
+2024-02-26,Printer,15,104004,1560060,John Okafor
+2024-10-29,Projector,18,230717,4152906,Samuel Chinedu
+2024-10-14,Power Bank,12,280791,3369492,Mary Johnson
+2024-06-23,Printer,8,362090,2896720,Michael Brown
+2024-07-02,Smartphone,3,21442,64326,David Smith
+2024-10-23,Monitor,20,302001,6040020,Blessing Uche
+2024-01-10,Scanner,17,113149,1923533,Daniel Musa
+2024-01-09,Tablet,15,307130,4606950,Chiamaka Obi
+2024-09-13,Router,20,80882,1617640,David Smith
+2024-06-19,Keyboard,8,441766,3534128,Paul Onyekachi
+2024-11-13,Router,17,120559,2049503,Daniel Musa
+2024-02-14,Tablet,15,107590,1613850,Grace Williams
+2024-05-31,Router,18,283308,5099544,Chiamaka Obi
+2024-06-28,Router,12,427803,5133636,Daniel Musa
+2024-01-29,Scanner,8,163264,1306112,Sophia Adams
+2024-05-25,External Hard Drive,6,266854,1601124,Fatima Abdullahi
+2024-12-10,Mouse,13,480815,6250595,Aisha Bello
+2024-09-21,Smartphone,2,392408,784816,David Smith
+2024-02-25,Router,4,417086,1668344,Peter Okorie
+2024-06-01,Smartphone,18,87830,1580940,Mary Johnson
+2024-02-19,Router,8,220443,1763544,Chiamaka Obi
+2024-04-11,Webcam,5,161773,808865,Blessing Uche
+2024-08-27,Laptop,12,279517,3354204,John Okafor
+2024-06-07,Projector,12,398538,4782456,Peter Okorie
+2024-12-12,External Hard Drive,7,57533,402731,Samuel Chinedu
+2024-02-02,Smartphone,16,75976,1215616,Chiamaka Obi
+2024-12-16,Smartphone,6,334402,2006412,Mary Johnson
+2024-02-16,Printer,12,333360,4000320,Michael Brown
+2024-09-17,Smartphone,10,471979,4719790,Aisha Bello
+2024-03-02,Projector,9,446374,4017366,Peter Okorie
+2024-03-07,Keyboard,7,130010,910070,David Smith
+2024-12-13,Smartphone,10,436055,4360550,John Okafor
+2024-12-13,Mouse,16,463955,7423280,Daniel Musa
+2024-01-30,Mouse,13,356101,4629313,Sophia Adams
+2024-05-13,Laptop,12,465340,5584080,Mary Johnson
+2024-01-07,Router,18,240966,4337388,Aisha Bello
+2024-04-13,Printer,14,200419,2805866,Emeka Nwoye
+2024-04-11,Laptop,15,331704,4975560,Paul Onyekachi
+2024-01-29,Keyboard,17,95136,1617312,Daniel Musa
+2024-03-02,Tablet,9,278707,2508363,Samuel Chinedu
+2024-01-08,Mouse,14,263974,3695636,David Smith
+2024-07-01,Webcam,13,394947,5134311,Mary Johnson
+2024-02-13,Power Bank,11,83901,922911,Aisha Bello
+2024-07-20,Projector,18,446093,8029674,David Smith
+2024-08-08,USB Flash Drive,4,277991,1111964,Paul Onyekachi
+2024-05-15,Router,6,154228,925368,Emeka Nwoye
+2024-03-28,Power Bank,9,52292,470628,Michael Brown
+2024-04-02,Scanner,14,422908,5920712,Aisha Bello
+2024-03-13,Printer,13,347108,4512404,Chiamaka Obi
+2024-07-11,Webcam,6,247425,1484550,David Smith
+2024-10-06,Webcam,16,54092,865472,David Smith
+2024-03-10,Scanner,18,111350,2004300,Blessing Uche
+2024-02-18,Scanner,4,322649,1290596,Sophia Adams
+2024-09-25,External Hard Drive,11,154124,1695364,Paul Onyekachi
+2024-07-22,Tablet,7,164833,1153831,Paul Onyekachi
+2024-08-29,Scanner,2,205207,410414,Aisha Bello
+2024-10-06,Projector,7,378539,2649773,Michael Brown
+2024-02-17,Headphones,13,225561,2932293,Fatima Abdullahi
+2024-04-27,Scanner,7,319031,2233217,David Smith
+2024-11-15,Tablet,16,453803,7260848,Grace Williams
+2024-09-18,USB Flash Drive,18,486317,8753706,Grace Williams
+2024-07-08,Printer,11,50809,558899,David Smith
+2024-01-10,Power Bank,3,262186,786558,Grace Williams
+2024-06-15,Tablet,4,419652,1678608,Sophia Adams
+2024-08-02,Webcam,3,214899,644697,Fatima Abdullahi
+2024-11-02,Scanner,8,28398,227184,Sophia Adams
+2024-09-20,Smartphone,20,447469,8949380,David Smith
+2024-05-24,USB Flash Drive,13,378808,4924504,Emeka Nwoye
+2024-10-13,Router,14,192166,2690324,John Okafor
+2024-08-30,Projector,7,213997,1497979,Grace Williams
+2024-12-30,Laptop,10,130152,1301520,Samuel Chinedu
+2024-09-23,Laptop,19,62894,1194986,Aisha Bello
+2024-06-26,Mouse,8,278635,2229080,Fatima Abdullahi
+2024-12-02,Scanner,15,232228,3483420,Grace Williams
+2024-09-07,Monitor,5,291250,1456250,Emeka Nwoye
+2024-08-12,Tablet,16,151641,2426256,Daniel Musa
+2024-08-23,Webcam,2,437052,874104,Fatima Abdullahi
+2024-03-04,Scanner,6,490777,2944662,David Smith
+2024-02-22,Power Bank,10,104481,1044810,Michael Brown
+2024-08-30,Power Bank,14,20584,288176,John Okafor
+2024-01-13,Headphones,7,351636,2461452,Daniel Musa
+2024-12-31,Monitor,1,327295,327295,Grace Williams
+2024-05-04,External Hard Drive,11,337207,3709277,Sophia Adams
+2024-10-24,Smartphone,6,128424,770544,Samuel Chinedu
+2024-03-16,Headphones,8,435156,3481248,David Smith
+2024-05-28,Scanner,9,239621,2156589,Emeka Nwoye
+2024-08-03,Printer,15,230180,3452700,Fatima Abdullahi
+2024-08-10,Keyboard,1,155405,155405,Grace Williams
+2024-01-02,External Hard Drive,8,117239,937912,Blessing Uche
+2024-11-12,Printer,12,176651,2119812,Mary Johnson
+2024-11-13,Tablet,16,316775,5068400,David Smith
+2024-07-26,Projector,10,489906,4899060,Daniel Musa
+2024-09-20,Keyboard,1,168575,168575,Aisha Bello
+2024-04-04,Keyboard,1,160472,160472,John Okafor
+2024-06-07,Laptop,2,458268,916536,Sophia Adams
+2024-02-11,Projector,11,175493,1930423,Grace Williams
+2024-03-16,Printer,14,165793,2321102,Blessing Uche
+2024-09-20,USB Flash Drive,8,415104,3320832,Sophia Adams
+2024-06-08,External Hard Drive,8,316129,2529032,Peter Okorie
+2024-12-05,Webcam,4,229938,919752,Samuel Chinedu
+2024-05-08,Printer,11,455087,5005957,Chiamaka Obi
+2024-03-24,Smartphone,16,408920,6542720,Samuel Chinedu
+2024-08-09,Headphones,15,380082,5701230,Samuel Chinedu
+2024-09-07,Scanner,15,109816,1647240,Chiamaka Obi
+2024-10-19,Headphones,18,116535,2097630,Paul Onyekachi
+2024-06-08,Printer,10,364593,3645930,Aisha Bello
+2024-04-20,Projector,6,93815,562890,Paul Onyekachi
+2024-03-30,Mouse,15,161761,2426415,Aisha Bello
+2024-09-07,Keyboard,4,77672,310688,Paul Onyekachi
+2024-07-09,Webcam,14,337416,4723824,Michael Brown
+2024-05-10,Router,1,393837,393837,Chiamaka Obi
+2024-11-27,External Hard Drive,14,367744,5148416,Daniel Musa
+2024-10-15,Projector,4,465602,1862408,David Smith
+2024-04-03,Tablet,10,56598,565980,Peter Okorie
+2024-03-17,Printer,20,190961,3819220,Mary Johnson
+2024-10-15,Webcam,14,392381,5493334,Sophia Adams
+2024-06-12,Tablet,19,458364,8708916,John Okafor
+2024-11-12,Printer,1,168468,168468,Peter Okorie
+2024-02-15,External Hard Drive,1,93287,93287,John Okafor
+2024-07-17,Router,19,306549,5824431,Samuel Chinedu
+2024-02-15,Printer,20,369916,7398320,Grace Williams
+2024-02-18,Mouse,10,426225,4262250,John Okafor
+2024-12-21,Power Bank,1,54643,54643,Chiamaka Obi
+2024-11-30,Printer,7,145984,1021888,John Okafor
+2024-07-14,Scanner,7,391745,2742215,Fatima Abdullahi
+2024-06-09,Printer,16,480274,7684384,Michael Brown
+2024-08-27,Mouse,9,368916,3320244,Samuel Chinedu
+2024-06-14,Laptop,20,29097,581940,Aisha Bello
+2024-05-11,Monitor,3,238957,716871,Grace Williams
+2024-09-13,USB Flash Drive,11,222562,2448182,Grace Williams
+2024-11-24,USB Flash Drive,2,199282,398564,Blessing Uche
+2024-11-05,Projector,15,18071,271065,Chiamaka Obi
+2024-12-07,Webcam,2,108372,216744,Peter Okorie
+2024-06-10,Printer,3,31594,94782,Sophia Adams
+2024-09-21,Tablet,9,178078,1602702,Samuel Chinedu
+2024-01-27,External Hard Drive,15,358436,5376540,Fatima Abdullahi
+2024-09-27,External Hard Drive,20,310103,6202060,Aisha Bello
+2024-04-22,Monitor,5,439323,2196615,Blessing Uche
+2024-12-13,Smartphone,17,410183,6973111,Grace Williams
+2024-10-14,Smartphone,6,322796,1936776,John Okafor
+2024-09-24,Power Bank,20,390430,7808600,Chiamaka Obi
+2024-09-21,Scanner,20,45937,918740,John Okafor
+2024-07-25,Keyboard,11,143167,1574837,Blessing Uche
+2024-02-08,Laptop,15,116601,1749015,Emeka Nwoye
+2024-09-01,Keyboard,16,359878,5758048,Paul Onyekachi
+2024-03-22,Scanner,4,130724,522896,Grace Williams
+2024-04-06,Printer,19,205956,3913164,Peter Okorie
+2024-04-18,Scanner,11,237434,2611774,Samuel Chinedu
+2024-05-14,Power Bank,13,31679,411827,Mary Johnson
+2024-12-18,Smartphone,3,327310,981930,Daniel Musa
+2024-12-24,Smartphone,7,131160,918120,Mary Johnson
+2024-07-15,Laptop,3,343533,1030599,Blessing Uche
+2024-09-02,Power Bank,14,55837,781718,Paul Onyekachi
+2024-06-26,Projector,8,382477,3059816,Grace Williams
+2024-03-28,Printer,18,318197,5727546,Blessing Uche
+2024-07-02,Printer,13,292451,3801863,Blessing Uche
+2024-09-17,External Hard Drive,16,352081,5633296,Emeka Nwoye
+2024-10-07,Keyboard,4,229732,918928,Paul Onyekachi
+2024-06-25,Power Bank,5,85790,428950,Peter Okorie
+2024-12-18,Printer,17,401728,6829376,Peter Okorie
+2024-02-15,External Hard Drive,20,393615,7872300,Samuel Chinedu
+2024-08-23,Webcam,1,482883,482883,Emeka Nwoye
+2024-06-25,Mouse,16,138151,2210416,David Smith
+2024-07-02,Monitor,5,186726,933630,Chiamaka Obi
+2024-09-11,Webcam,13,288929,3756077,Peter Okorie
+2024-08-31,Projector,8,58961,471688,Aisha Bello
+2024-04-29,Router,3,457822,1373466,Mary Johnson
+2024-06-30,Keyboard,1,419108,419108,Fatima Abdullahi
+2024-07-23,Smartphone,1,124982,124982,Fatima Abdullahi
+2024-09-17,Webcam,11,80197,882167,Grace Williams
+2024-01-28,Tablet,17,307221,5222757,Chiamaka Obi
+2024-06-24,Tablet,15,391304,5869560,John Okafor
+2024-09-09,External Hard Drive,3,155202,465606,Daniel Musa
+2024-05-01,Tablet,7,58266,407862,Grace Williams
+2024-05-11,Scanner,11,277690,3054590,Grace Williams
+2024-09-09,Headphones,7,121481,850367,Fatima Abdullahi
+2024-12-31,Tablet,9,183434,1650906,Blessing Uche
+2024-11-16,External Hard Drive,5,468066,2340330,Chiamaka Obi
+2024-07-29,Projector,4,58333,233332,Sophia Adams
+2024-04-29,Projector,9,142963,1286667,Paul Onyekachi
+2024-10-05,Mouse,9,301869,2716821,Blessing Uche
+2024-05-01,Webcam,9,338500,3046500,Fatima Abdullahi
+2024-08-06,Power Bank,14,189241,2649374,John Okafor
+2024-11-04,Smartphone,9,398553,3586977,Daniel Musa
+2024-12-22,Headphones,20,203219,4064380,Michael Brown
+2024-10-06,Mouse,5,116722,583610,Chiamaka Obi
+2024-11-19,Router,15,259327,3889905,Grace Williams
+2024-12-20,External Hard Drive,14,240613,3368582,Blessing Uche
+2024-08-03,Monitor,9,221248,1991232,Michael Brown

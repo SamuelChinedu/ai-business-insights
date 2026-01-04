@@ -1,0 +1,231 @@
+{% extends "base.html" %}
+{% load humanize %}
+
+{% block title %}Analysis Detail{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+    <h1 class="text-center mb-4" style="color: #A52A2A;">
+        📊 Analysis Detail — {{ analysis.business_type }}
+        <small class="text-muted">({{ analysis.created_at|date:"M d, Y" }})</small>
+    </h1>
+
+    <!-- KPI Cards -->
+    <div class="row text-center mb-5">
+        <div class="col-md-3">
+            <h2 class="fw-bold" style="color: #A52A2A;">₦{{ analysis.data_summary.total_revenue|floatformat:0|intcomma }}</h2>
+            <p class="text-muted">Total Revenue</p>
+        </div>
+        <div class="col-md-3">
+            <h2 class="fw-bold" style="color: #A52A2A;">{{ analysis.data_summary.transactions|intcomma }}</h2>
+            <p class="text-muted">Total Transactions</p>
+        </div>
+        <div class="col-md-3">
+            <h2 class="fw-bold" style="color: #A52A2A;">₦{{ analysis.data_summary.avg_daily|floatformat:0|intcomma }}</h2>
+            <p class="text-muted">Avg Daily Revenue</p>
+        </div>
+        <div class="col-md-3">
+            <h2 class="fw-bold" style="color: {% if analysis.data_summary.growth >= 0 %}#28a745{% else %}#dc3545{% endif %}">
+                {{ analysis.data_summary.growth|floatformat:1 }}%
+            </h2>
+            <p class="text-muted">Growth</p>
+        </div>
+    </div>
+
+    <!-- Charts with Findings -->
+    <div class="row">
+        <!-- Revenue Trend -->
+        <div class="col-lg-6 mb-5">
+            <div class="card-beige p-4">
+                <h4 style="color: #A52A2A;">📈 Revenue Trend</h4>
+                <div class="alert alert-info small">
+                    <strong>Finding:</strong> 
+                    {% if summary.growth >= 0 %}
+                        Your revenue shows a strong upward trend of {{ summary.growth|floatformat:1 }}%.
+                    {% else %}
+                        Your revenue is declining by {{ summary.growth|floatformat:1 }}% — action needed.
+                    {% endif %}
+                </div>
+                <canvas id="revenueChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Top Products -->
+        <div class="col-lg-6 mb-5">
+            <div class="card-beige p-4">
+                <h4 style="color: #A52A2A;">🔥 Top Products/Services</h4>
+                <div class="alert alert-success small">
+                    <strong>Highest Selling:</strong> {{ top_item_name }} — ₦{{ top_item_value|floatformat:0|intcomma }}<br>
+                    <strong>Lowest Selling:</strong> {{ lowest_item_name }} — ₦{{ lowest_item_value|floatformat:0|intcomma }}
+                </div>
+                <canvas id="topItemsChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Busy Days -->
+        <div class="col-lg-6 mb-5">
+            <div class="card-beige p-4">
+                <h4 style="color: #A52A2A;">🗓️ Busy Days</h4>
+                <div class="alert alert-warning small">
+                    <strong>Busiest Day:</strong> {{ chart_data.busy_days|first }} — ₦{{ chart_data.busy_values|first|floatformat:0|intcomma }} 
+                    ({{ busiest_percentage|floatformat:1 }}% of total revenue)<br>
+                    <strong>Quietest Day:</strong> {{ chart_data.busy_days|last }}
+                </div>
+                <canvas id="busyDaysChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Forecast -->
+        <div class="col-lg-6 mb-5">
+            <div class="card-beige p-4">
+                <h4 style="color: #A52A2A;">🔮 7-Day Forecast</h4>
+                <div class="alert alert-primary small">
+                    <strong>Prediction:</strong> Expected revenue next week: ~₦{{ forecast_total|floatformat:0|intcomma }}<br>
+                    <strong>Trend:</strong> 
+                    {% if summary.growth >= 0 %}
+                        Continuing growth — prepare more stock!
+                    {% else %}
+                        Possible decline — consider promotions on top items
+                    {% endif %}
+                </div>
+                <canvas id="forecastChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Detailed AI Recommendations -->
+    <div class="card-beige p-5 mt-5">
+        <h3 style="color: #A52A2A;" class="text-center mb-4">💡 Detailed AI Business Recommendations</h3>
+        <div class="row">
+            <div class="col-md-6 mb-4">
+                <h5>📦 Inventory Management</h5>
+                <ul class="list-group">
+                    <li class="list-group-item">
+                        <strong>Stock up urgently:</strong> {{ top_item_name }} is your best seller (₦{{ top_item_value|floatformat:0|intcomma }}) — never run out to avoid lost sales.
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Reduce or promote:</strong> {{ lowest_item_name }} only made ₦{{ lowest_item_value|floatformat:0|intcomma }} — consider clearance sale or stop stocking.
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-6 mb-4">
+                <h5>🗓️ Staffing & Operations</h5>
+                <ul class="list-group">
+                    <li class="list-group-item">
+                        <strong>Staff heavily on:</strong> {{ chart_data.busy_days|first }}s — they bring {{ busiest_percentage|floatformat:1 }}% of weekly revenue.
+                    </li>
+                    <li class="list-group-item">
+                        Run special promotions on {{ chart_data.busy_days|last }} to increase sales on slow days.
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-6 mb-4">
+                <h5>💰 Growth Strategy</h5>
+                <ul class="list-group">
+                    {% if summary.growth >= 10 %}
+                    <li class="list-group-item text-success">
+                        <strong>Excellent growth!</strong> +{{ summary.growth|floatformat:1 }}% — your business is thriving. Keep doing what works and consider expansion.
+                    </li>
+                    {% elif summary.growth > 0 %}
+                    <li class="list-group-item text-info">
+                        Positive growth of {{ summary.growth|floatformat:1 }}% — steady progress. Small improvements can accelerate results.
+                    </li>
+                    {% else %}
+                    <li class="list-group-item text-danger">
+                        <strong>Revenue declining</strong> by {{ summary.growth|floatformat:1 }}% — urgent action needed. Launch promotions on {{ top_item_name }} immediately.
+                    </li>
+                    {% endif %}
+                    <li class="list-group-item">
+                        Upload data weekly — better records = more accurate forecasts and insights.
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-6 mb-4">
+                <h5>🎯 Immediate Next Steps</h5>
+                <ul class="list-group">
+                    <li class="list-group-item">Take a photo of today's sales notebook and upload it</li>
+                    <li class="list-group-item">Record daily sales consistently for best results</li>
+                    <li class="list-group-item">Share this platform with other business owners!</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const chartData = {{ summary.chart_data|safe }};
+
+    // Revenue Trend
+    new Chart(document.getElementById('revenueChart'), {
+        type: 'line',
+        data: {
+            labels: chartData.daily_dates,
+            datasets: [{
+                label: 'Daily Revenue (₦)',
+                data: chartData.daily_revenue,
+                borderColor: '#A52A2A',
+                backgroundColor: 'rgba(165,42,42,0.1)',
+                tension: 0.4,
+                fill: true
+            }]
+        },
+        options: { responsive: true, plugins: { legend: { display: false } } }
+    });
+
+    // Top Items
+    new Chart(document.getElementById('topItemsChart'), {
+        type: 'bar',
+        data: {
+            labels: chartData.top_names,
+            datasets: [{
+                label: 'Revenue (₦)',
+                data: chartData.top_values,
+                backgroundColor: '#A52A2A'
+            }]
+        },
+        options: { responsive: true, indexAxis: 'y' }
+    });
+
+    // Busy Days
+    new Chart(document.getElementById('busyDaysChart'), {
+        type: 'bar',
+        data: {
+            labels: chartData.busy_days,
+            datasets: [{
+                label: 'Revenue (₦)',
+                data: chartData.busy_values,
+                backgroundColor: '#DAA520'
+            }]
+        },
+        options: { responsive: true }
+    });
+
+    // Forecast
+    new Chart(document.getElementById('forecastChart'), {
+        type: 'line',
+        data: {
+            labels: chartData.historical_dates.concat(chartData.forecast_dates),
+            datasets: [
+                {
+                    label: 'Historical',
+                    data: chartData.historical_revenue.concat(Array(chartData.forecast_dates.length).fill(null)),
+                    borderColor: '#A52A2A',
+                    backgroundColor: 'rgba(165,42,42,0.1)',
+                    fill: true
+                },
+                {
+                    label: '7-Day Forecast',
+                    data: Array(chartData.historical_dates.length).fill(null).concat(chartData.forecast_values),
+                    borderColor: '#DAA520',
+                    borderDash: [5, 5],
+                    backgroundColor: 'rgba(218,165,32,0.1)'
+                }
+            ]
+        },
+        options: { responsive: true }
+    });
+</script>
+{% endblock %}

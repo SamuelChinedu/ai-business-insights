@@ -1,0 +1,169 @@
+{% extends "base.html" %}
+{% block title %}AI Business Insights - Free Analytics for Nigerian Small Businesses{% endblock %}
+
+{% block content %}
+{% if user.is_authenticated %}
+    <!-- Logged In: Clean & Action-Focused -->
+    <div class="container-fluid py-5" style="background: linear-gradient(to bottom, #FAF0E6, #F5F5F5); min-height: 80vh;">
+        <div class="container py-5">
+            <div class="text-center mb-5">
+                <h1 class="display-4 fw-bold mb-4" style="color: #A52A2A;">
+                    <i class="fas fa-hand-wave fa-lg me-3"></i> Welcome back, {{ user.username }}!
+                </h1>
+                <p class="lead fs-3">Ready to grow your business today?</p>
+            </div>
+
+            <div class="row g-5 justify-content-center">
+                <div class="col-lg-6">
+                    <div class="card-beige p-5 text-center shadow-lg h-100">
+                        <i class="fas fa-upload fa-5x mb-4" style="color: #A52A2A;"></i>
+                        <h3 class="mb-4">Upload New Data</h3>
+                        <p class="fs-5 mb-4">Get fresh insights and forecasts instantly</p>
+                        <a href="{% url 'dashboard' %}#upload" class="btn btn-primary btn-lg px-5 py-3">
+                            Upload File or Photo →
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="card-beige p-5 text-center shadow-lg h-100">
+                        <i class="fas fa-chart-line fa-5x mb-4" style="color: #A52A2A;"></i>
+                        <h3 class="mb-4">View Your Reports</h3>
+                        <p class="fs-5 mb-4">See all your past analyses and trends</p>
+                        <a href="{% url 'dashboard' %}" class="btn btn-outline-primary btn-lg px-5 py-3">
+                            Go to Dashboard →
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% else %}
+    <!-- Not Logged In: Bold, Full-Screen Hero -->
+    <section class="hero text-white d-flex align-items-center" style="min-height: 100vh; background: linear-gradient(135deg, #A52A2A, #8B0000);">
+        <div class="container">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-10 col-xl-8">
+                    <h1 class="display-3 fw-bold mb-4">Grow Your Business with AI Insights</h1>
+                    <p class="lead fs-2 mb-4">Free analytics platform for Nigerian small businesses</p>
+                    <p class="fs-4 mb-5 opacity-90">
+                        Upload your sales data → get beautiful dashboards, forecasts, and simple recommendations to increase profit
+                    </p>
+
+                    <div class="d-grid d-md-block gap-4">
+                        <a href="{% url 'register' %}" class="btn btn-light btn-lg px-5 py-3 me-md-4">
+                            <i class="fas fa-user-plus fa-lg me-2"></i> Create Free Account
+                        </a>
+                        <a href="{% url 'login' %}" class="btn btn-outline-light btn-lg px-5 py-3">
+                            <i class="fas fa-sign-in-alt fa-lg me-2"></i> Login
+                        </a>
+                    </div>
+
+                    <div class="mt-5">
+                        <p class="fs-5 opacity-75">
+                            <i class="fas fa-check-circle me-2"></i> No payment • Save your reports • Access anytime
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Trust Badges -->
+    <section class="py-5 bg-dark text-white">
+        <div class="container text-center">
+            <div class="row g-5">
+                <div class="col-md-4">
+                    <i class="fas fa-lock fa-4x mb-3"></i>
+                    <h4>100% Private</h4>
+                    <p>Your data is never sold or shared</p>
+                </div>
+                <div class="col-md-4">
+                    <i class="fas fa-mobile-alt fa-4x mb-3"></i>
+                    <h4>Mobile-First</h4>
+                    <p>Works perfectly on your phone</p>
+                </div>
+                <div class="col-md-4">
+                    <i class="fas fa-heart fa-4x mb-3"></i>
+                    <h4>Made in Nigeria</h4>
+                    <p>Built for Nigerian entrepreneurs</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features -->
+    <section class="py-5 bg-light">
+        <div class="container">
+            <h2 class="text-center mb-5 fw-bold" style="color: #A52A2A;">Simple. Powerful. Free.</h2>
+            <div class="row g-5 text-center">
+                <div class="col-md-4">
+                    <div class="card-beige p-5 shadow">
+                        <i class="fas fa-upload fa-4x mb-4" style="color: #A52A2A;"></i>
+                        <h4>Easy Upload</h4>
+                        <p>Excel, CSV, or photo of notebook</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card-beige p-5 shadow">
+                        <i class="fas fa-brain fa-4x mb-4" style="color: #A52A2A;"></i>
+                        <h4>AI Insights</h4>
+                        <p>Top sellers, busy days, forecasts</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card-beige p-5 shadow">
+                        <i class="fas fa-lightbulb fa-4x mb-4" style="color: #A52A2A;"></i>
+                        <h4>Clear Advice</h4>
+                        <p>Simple recommendations in plain English</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Target Businesses -->
+    <section class="py-5">
+        <div class="container">
+            <h2 class="text-center mb-5 fw-bold" style="color: #A52A2A;">Built for Your Business</h2>
+            <div class="row g-5 text-center">
+                <div class="col-md-3">
+                    <div class="card-beige p-4 shadow-sm">
+                        <i class="fas fa-store fa-3x mb-3" style="color: #A52A2A;"></i>
+                        <h5>Mini Marts</h5>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card-beige p-4 shadow-sm">
+                        <i class="fas fa-cut fa-3x mb-3" style="color: #A52A2A;"></i>
+                        <h5>Tailors</h5>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card-beige p-4 shadow-sm">
+                        <i class="fas fa-wrench fa-3x mb-3" style="color: #A52A2A;"></i>
+                        <h5>Mechanics</h5>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card-beige p-4 shadow-sm">
+                        <i class="fas fa-paint-brush fa-3x mb-3" style="color: #A52A2A;"></i>
+                        <h5>Beauty Salons</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Final CTA -->
+    <section class="py-5 bg-dark text-white">
+        <div class="container text-center py-5">
+            <h2 class="fw-bold mb-4">Start Growing Today — It's Free</h2>
+            <p class="lead mb-5">Create your account and get your first analysis in minutes</p>
+            <a href="{% url 'register' %}" class="btn btn-light btn-lg px-5 py-3">
+                <i class="fas fa-user-plus fa-lg me-2"></i> Create Free Account
+            </a>
+        </div>
+    </section>
+{% endif %}
+{% endblock %}
