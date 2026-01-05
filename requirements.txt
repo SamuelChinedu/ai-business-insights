@@ -7,8 +7,9 @@ numpy
 scikit-learn
 whitenoise
 django-humanize
+reportlab
 easyocr
-torch
-torchvision
-torchaudio
+torch==2.4.0+cpu
+torchvision==0.19.0+cpu
+torchaudio==2.4.0+cpu
 opencv-python-headless
