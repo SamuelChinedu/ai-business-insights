@@ -1,0 +1,9 @@
+Django>=5.0,<6.0
+gunicorn
+psycopg2-binary
+pandas
+openpyxl
+numpy
+scikit-learn
+whitenoise
+django-humanize
