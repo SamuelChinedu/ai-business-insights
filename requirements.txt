@@ -7,3 +7,8 @@ numpy
 scikit-learn
 whitenoise
 django-humanize
+easyocr
+torch
+torchvision
+torchaudio
+opencv-python-headless
